@@ -58,7 +58,7 @@ python3 CODE.py
 
 # License 
 
-[INSERT WORD HERE DONT FORGET](https://www.github.com/lin8x/fixme/license)
+License Link (https://www.github.com/lin8x/fixme/license)
 
 # Donate :magnifying_glass:
 
