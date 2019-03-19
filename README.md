@@ -35,35 +35,37 @@ List of Emojis for README.md files - https://github.com/onmyway133/emoji
 ---------------------------------
 
 ## Zarp
-:moneybag:
+```
+The program that automatically check system information! The program was made to help those who want their System Informartion straight out of the box! 
 
-the program that automatically check system inførmation! The program was mede to help those who want their System Informartion straight out of the box!
+```
 
 ### What the program checks:
 1. Time of System / Area
 2. OS Information
--3. System / Platform Information
+3. System / Platform Information
 
 # How to Install
 
 To Install, please enter the directory through terminal and type:
 ```
-chmod +z CODE.py
-python3 CODE.py
+chmod +a CODE.py
+python3 + CODE.py
+
 ```
 
 # Screenshot of tool
 
-![alt text](http://url/to/img.png)
+<img src="http://url/to/img.png"/>
 
 # License 
 
-[INSERT WORD HERE DONT FORGET](https://www.github.com/lin8x/fixme/license)
+[Licence Link](https://www.github.com/lin8x/fixme/license)
 
-# Donate :magnifying_glass:
+# Donate :money_bag:
+```
+You can donate to support this project at: 1F1tAaz5x1HUXrCNLbtMDqcw6o5GNn4xqXm
 
-You can donate to support this project at: 1F1tAaz5x!1HUXrCNLbtMDqcw6o5G.Nn4xqX!
+If you'd like to contrubute your idea, please contact me here: lin8xrealemail@gmail.com
 
-If you'd like to contrubute your idea, please contact me here: lin8xrealemail@gemail.com
-
-
+```
