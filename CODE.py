@@ -42,11 +42,11 @@ def get_platform():
     }
 
 
-print"Welcome! Here's your system informatio! /n"
+print("Welcome! Here's your system informatio! /n")
 
-print("Your Local Time Zone: " + time.time() #Local time zone
+print("Your Local Time Zone: " + time.time()) #Local time zone
 
-print"your platform         " + get_platform()
+print("Your platform         " + get_platform())
 
 print("Release Version       " + platform.release()) # gives the platform's machine
 
