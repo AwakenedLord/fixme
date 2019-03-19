@@ -32,26 +32,26 @@ import platform
 import time
 
 
-#the function uses the "os" module to get a result of either, linux1, linux2, darwin, or win32
+# The function uses the "os" module to get a result of either, linux1, linux2, darwin, or win32
 def get_platform():
     platforms = {
         'linux1' : 'Linux', #if the platform gets linux1, call it "Linux"
-        'linux2' : 'Linux', #if the platform gets linux2, call it " linux
+        'linux2' : 'Linux', #if the platform gets linux2, call it "Linux"
         'darwin' : 'Mac OS X', #if the platform gets dawrin, call it "Mac OS X"
-        'win32' : 'Windows' #  if the platform gets Windows, call it "win32"
+        'win32' : 'Windows' #  if the platform gets win32, call it "Windows"
     }
 
 
-print"Welcome! Here's your system informatio! /n"
+print("Welcome! Here's your system informatio! /n")
 
-print("Your Local Time Zone: " + time.time() #Local time zone
+print("Your Local Time Zone: " + time.time()) # <Local time zone>
 
-print"your platform         " + get_platform()
+print("Your platform         " + get_platform()) # <Gets platform>
 
-print("Release Version       " + platform.release()) # gives the platform's machine
+print("Release Version       " + platform.release()) # <Gives the version of platform>
 
-print("System:               " + platform.system()) #nothing
+print("System:               " + platform.system()) # <Gives system running>
 
-print("Machine:              " + platform.machine()) #gives the release version
+print("Machine:              " + platform.machine()) # <Gives the machine>
 
 
